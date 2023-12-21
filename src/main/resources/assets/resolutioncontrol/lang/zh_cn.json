@@ -1,17 +1,17 @@
 {
   "key.categories.resolutioncontrol": "Resolution Control",
 
-  "key.resolutioncontrol.settings": "Resolution Control 设置",
-  "key.resolutioncontrol.screenshot": "屏幕截图帧缓冲",
+  "key.resolutioncontrol.settings": "Resolution Control 按键设置",
+  "key.resolutioncontrol.screenshot": "截图帧缓冲键(截图键)",
 
-  "resolutioncontrol.settings.title": "Resolution Control",
+  "resolutioncontrol.settings.title": "Resolution Control 设置",
 
   "resolutioncontrol.settings.main": "一般",
 
-  "resolutioncontrol.settings.main.upscale": "高分辨率过滤器：",
-  "resolutioncontrol.settings.main.downscale": "低分辨率过滤器：",
+  "resolutioncontrol.settings.main.upscale": "高分辨率插值法：",
+  "resolutioncontrol.settings.main.downscale": "低分辨率插值法：",
   "resolutioncontrol.settings.main.linear": "线性",
-  "resolutioncontrol.settings.main.nearest": "最近邻居",
+  "resolutioncontrol.settings.main.nearest": "最邻近",
   "resolutioncontrol.settings.main.estimate": "预计： %s",
 
   "resolutioncontrol.settings.screenshot": "截图",
@@ -19,11 +19,11 @@
   "resolutioncontrol.settings.screenshot.alwaysAllocated": "始终分配：",
   "resolutioncontrol.settings.screenshot.size": "大小：",
 
-  "resolutioncontrol.settings.info": "信息",
+  "resolutioncontrol.settings.info": "系统信息",
   "resolutioncontrol.settings.info.gpu": "显卡：",
   "resolutioncontrol.settings.info.maxTextureSize": "最大纹理大小：",
 
-  "resolutioncontrol.screenshot.wait": "处理屏幕截图中...",
+  "resolutioncontrol.screenshot.wait": "处理截屏中...",
 
-  "modmenu.descriptionTranslation.resolutioncontrol": "让您更轻松地控制 minecraft 的渲染分辨率。"
+  "modmenu.descriptionTranslation.resolutioncontrol": "让您更轻松地控制 Minecraft 的渲染分辨率。"
 }
